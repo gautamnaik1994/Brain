@@ -1,0 +1,18 @@
+repo_name: gautamnaik1994/Brain
+report_id: c04bd016bef1070be5c4d2f1a74abb8c
+repo_type: Public
+timestamp: '2023-11-09T18:03:41+00:00'
+requested_by: gautamnaik1994
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
